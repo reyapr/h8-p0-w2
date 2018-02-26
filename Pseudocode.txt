@@ -8,11 +8,10 @@ Pseudocode
 	Display 'F'
 
 2.	Tahun Kabisat
-	- 	FC
+	
 		if, Year modulo 4 is 0, and Year divide 100 not 0
 		Display 'Result is Kabisat years'
 
-	-	SC
 		if, Year modulo 4 is 0, and Year divide 100 is, 0 and Year divide 400 is 0
 		Display 'Result is Kabisat Years'
 
