@@ -1,0 +1,38 @@
+Pseudocode
+
+1. 	Newton Second Law
+	Store 'm' value 600kg
+	Store 'a' value 2m/s2
+	Set 'F' equal with Calculation m times a
+
+	Display 'F'
+
+2.	Tahun Kabisat
+	- 	FC
+		if, Year modulo 4 is 0, and Year divide 100 not 0
+		Display 'Result is Kabisat years'
+
+	-	SC
+		if, Year modulo 4 is 0, and Year divide 100 is, 0 and Year divide 400 is 0
+		Display 'Result is Kabisat Years'
+
+		Else 
+		Display 'Result is Not Kabisat Years'
+
+3.	Laundry Day
+	Store 'Clothes in washing machine' with 0
+	While 'Clothes in washing machine' < 20
+	Add 'Clothes in washing machine' by 1
+	Display 'Turn On'
+
+4.	Periksa Kuku
+	Store 'Students' with 0
+	While 'Students' < 40
+	Add 'Students' by 1
+
+	if Students is 'have a long nail'
+	display 'give punishment'
+
+	else
+	display 'give compliment'
+
