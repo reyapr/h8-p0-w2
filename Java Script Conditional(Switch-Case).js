@@ -4,7 +4,7 @@ var tahun = 2001;
 
 
 switch(true){
-	case (tanggal<=31):
+	case (tanggal > 0 && tanggal<=31):
 	hari = tanggal
 	break;
 	default:
