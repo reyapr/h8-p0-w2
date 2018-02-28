@@ -22,7 +22,7 @@ Pseudocode
 	Store 'Clothes in washing machine' with 0
 	While 'Clothes in washing machine' < 20
 	Add 'Clothes in washing machine' by 1
-	Display 'Turn On'
+	Return 'Turn On'
 
 4.	Periksa Kuku
 	Store 'Students' with 0
@@ -34,4 +34,5 @@ Pseudocode
 
 	else
 	display 'give compliment'
+	
 

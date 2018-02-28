@@ -3,7 +3,7 @@ if(nama == ''){
 	console.log('Nama harus diisi!');
 }
 //Output untuk Input nama = 'Mikael' dan peran = ''
-else if( peran == ''){
+else if(peran == ''){
 	console.log('Halo ' + nama + ' , Pilih peranmu untuk memulai game!');
 }
 //Output untuk Input peran 'Ksatria'
